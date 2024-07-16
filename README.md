@@ -39,7 +39,7 @@ I am Andy, a student and tech enthusiast with a passion for software development
 <p align="center"><!-----Social Accounts------>
 
 <p align="center">
- <a href="">
+ <a href="https://github.com/andyortz">
  <img border="0" alt="Andy Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
